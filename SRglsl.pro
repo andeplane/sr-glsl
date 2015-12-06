@@ -1,4 +1,4 @@
 TEMPLATE = subdirs
-SUBDIRS = SimVis SimVisProject
+SUBDIRS = SimVis SRglsl
 CONFIG += ordered
 SimVisProject.depends = SimVis
